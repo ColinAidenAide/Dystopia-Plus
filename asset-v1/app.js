@@ -1,6 +1,6 @@
 /* 0.5.1 2020-12-04 18:40:10 */
 var app = new function() {
-    this.name = "Alpha", this.version = "1", this.date = "2009", this.folder = "asset-v1/", this.looptime = 6857, this.bpm = 140, this.totalframe = 328, this.nbpolo = 16, this.nbloopbonus = 6, this.bonusloopA = !2, this.bonusendloopA = !2, this.recmaxloop = 27, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#0a1d1e", this.col0 = "#779295", this.col1 = "#5f7e7b", this.col2 = "#476761", this.col3 = "#304d47", this.col4 = "#1b312f", this.animearray = [{
+    this.name = "Alpha", this.version = "1", this.date = "2009", this.folder = "asset-v1/", this.looptime = 6857, this.bpm = 140, this.totalframe = 328, this.nbpolo = 7, this.nbloopbonus = 6, this.bonusloopA = !2, this.bonusendloopA = !2, this.recmaxloop = 27, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#0a1d1e", this.col0 = "#779295", this.col1 = "#5f7e7b", this.col2 = "#476761", this.col3 = "#304d47", this.col4 = "#1b312f", this.animearray = [{
         name: "1_lead",
         color: "5f7e7b",
         uniqsnd: !0
